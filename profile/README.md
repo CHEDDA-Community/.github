@@ -21,10 +21,10 @@ We invite you to participate in our community discussions and collaborative even
 
 ## Support Us
 
-You can support us by staking SOL to our validator:
+### You can support us by staking SOL to our validator:
 https://www.validators.app/validators/CHeDdAps5DnPu2QRAiZhRyKGsqkyX6gMBh9dc3s9xNbZ?locale=en&network=mainnet
 
-Or using liquid staking via BlazeStake:
+### Or using liquid staking via BlazeStake:
 https://stake.solblaze.org/app/?validator=ChEdDAJDA3X78yJYM52TwWPHSiCJD7nYLxSTkiBHpUPP
 
 ### Connect with Us
