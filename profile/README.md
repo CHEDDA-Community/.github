@@ -10,9 +10,7 @@ At CHEDDA, we aim to engage the meme crowd while emphasizing that the Solana eco
 - **Collaboration**: Encouraging positive interactions and partnerships within the ecosystem.
 - **Innovation**: Highlighting the unique opportunities that Solana offers beyond speculation.
 
-## What We Do
-
-With delegated stake from aeroSOL, our validator reinvests rewards into various initiatives:
+## What We Plan To Do
 
 - **Developer Outreach**: We organize workshops and create educational resources to support developers.
 - **Sponsorships**: We sponsor bounties, hackathons, and developer grants that foster innovation within the Solana ecosystem.
