@@ -1,6 +1,6 @@
 # CHEDDA
 
-Welcome to the CHEDDA Community! We are dedicated to building a vibrant community within the Solana ecosystem that values education, collaboration, and innovation.
+Welcome to the CHEDDA Developer Community! We are dedicated to building a vibrant community within the Solana ecosystem that values education, collaboration, and innovation.
 
 ## Our Mission
 
